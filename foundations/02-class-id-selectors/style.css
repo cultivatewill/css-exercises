@@ -1,0 +1,16 @@
+.c_one {
+    background-color: rgb(255,192,203);
+    font-family: Verdana , 'DejaVu Sans' , sans-serif;
+}
+.c_two {
+    font-size: 24px;
+}
+#one {
+    color: rgb(000,000,255);
+    font-size: 36px;
+}
+#two {
+    background-color: rgb(144,255,144);
+    font-weight: bold;
+    font-size: 24px;
+}
